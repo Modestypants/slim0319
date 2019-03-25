@@ -1,0 +1,13 @@
+{
+    "name": "imane/slim0319",
+    "type": "project",
+    "require": {
+        "slim/slim": "^3.12"
+    },
+    "authors": [
+        {
+            "name": "Imane",
+            "email": "imane@imane.com"
+        }
+    ]
+}
